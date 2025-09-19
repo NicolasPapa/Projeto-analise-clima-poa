@@ -188,4 +188,4 @@ def main():
             print("Opção inválida. Por favor, tente novamente.")
 
 if __name__ == "__main__":
-    main()
+    main() 
